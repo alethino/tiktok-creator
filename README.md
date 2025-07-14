@@ -42,7 +42,6 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 20. create account
 21. resolve captcha
 22. create accounts
-
 ### contact me
 ## Contact Telegram [@Neo_Galaxy] 
 https://t.me/Neo_Galaxy
