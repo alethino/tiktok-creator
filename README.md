@@ -15,7 +15,6 @@ tiktok x-ladon, tiktok x-argus, tiktok x-gorgon, tiktok x-khronos, tiktok device
 * X-Ladon 
 * TTEncrypt
 * Xlog
-
 ## tiktok API
 
 1. login to the user by email and username
